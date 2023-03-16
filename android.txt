@@ -1,0 +1,5 @@
+title=BullRush
+author=Craig Wilkinson
+description=Charge the bull at the matador's!
+api=1
+orientation=landscape
